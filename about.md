@@ -5,7 +5,7 @@ permalink: /about/
 ---
 
 ## Name
-Takeru SHIMIZU (wakatakeru)
+wakatakeru
 
 ## Affiliation
 Kagawa University., Fac. of Engineering
