@@ -1,15 +1,11 @@
 ---
 layout: page
-title: About
+title: wakatakeru.work
 permalink: /about/
 ---
-
-# wakatakeru.work
 
 ## Name
 Takeru SHIMIZU (wakatakeru)
 
 ## Affiliation
 Kagawa University., Fac. of Engineering
-
-## 
