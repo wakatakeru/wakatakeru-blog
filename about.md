@@ -1,6 +1,6 @@
 ---
 layout: page
-title: wakatakeru.work
+title: Abount Me
 permalink: /about/
 ---
 
