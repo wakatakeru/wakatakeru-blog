@@ -19,7 +19,6 @@ description: >- # this means to ignore newlines until "baseurl:"
   「さの字」って呼ばれます．SDxや仮想化技術などに興味があります。
   写真とったりアニメみたりが趣味。
   車の運転も好き🚗 お酒は心の日曜日🍶 ラーメンも好き🍜
-baseurl: "/"
 url: "wakatakeru.work"
 twitter_username: wakatakeru
 github_username:  wakatakeru
