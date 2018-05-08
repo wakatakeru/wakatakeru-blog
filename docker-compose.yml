@@ -1,12 +1,11 @@
 version: '2'
 services:
-
-  api:
+  app:
     image: jekyll/jekyll
     container_name: wakatakeru-blog
     volumes:
       - ./:/usr/src/app
     working_dir: /usr/src/app
-    command: sh -c 'jekyll build && jekyll serve -s /usr/src/app --watch'
+    command: 'jekyll serve -s /usr/src/app --watch'
     ports:
       - "4000:4000"
